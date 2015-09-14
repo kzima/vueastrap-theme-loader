@@ -1,0 +1,23 @@
+{
+  "name": "vuestrap-theme-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader that compiles each module with theme variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzima/vueastrap-theme-loader.git"
+  },
+  "keywords": [
+    "Webpack",
+    "vuestrap"
+  ],
+  "author": "Kris Zima <kris@mosquito.ie> (https://github.com/kzima)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kzima/vueastrap-theme-loader/issues"
+  },
+  "homepage": "https://github.com/kzima/vueastrap-theme-loader#readme"
+}
